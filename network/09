@@ -1,1 +1,7 @@
-on peux remarquer que le dns pour 42.fr est le meme que celui par defaut utilisé pour slash16.org donc on peux en deduire que le serveur dns utilisé par le systeme est celui de 42.
+PING 42.fr (10.52.1.11): 56 data bytes
+64 bytes from 10.52.1.11: icmp_seq=0 ttl=63 time=0.232 ms
+64 bytes from 10.52.1.11: icmp_seq=1 ttl=63 time=0.383 ms
+64 bytes from 10.52.1.11: icmp_seq=2 ttl=63 time=0.345 ms
+64 bytes from 10.52.1.11: icmp_seq=3 ttl=63 time=0.275 ms
+^C
+--- 42.fr ping statistics ---
